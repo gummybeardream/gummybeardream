@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a housing market trends dashboard
+- 🔭 I’m currently working on a housing market trends dashboard for homebuyers to make data-driven decisions
 <!--
 **gummybeardream/gummybeardream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
